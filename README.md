@@ -1,9 +1,9 @@
-![ProxmoxVE_PHP_API](https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Proxmox-VE-logo.svg/600px-Proxmox-VE-logo.svg.png)
+![Proxmox_PHP_API](https://upload.wikimedia.org/wikipedia/en/thumb/2/25/Proxmox-VE-logo.svg/600px-Proxmox-VE-logo.svg.png)
 
-# ProxmoxVE PHP API
+# Proxmox PHP API
 
 ## Table of Contents
-- [ProxmoxVE PHP API](#proxmoxve-php-api)
+- [Proxmox PHP API](#proxmox-php-api)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Usage](#usage)
@@ -45,10 +45,10 @@
 
 
 ## Installation
-To install ProxmoxVE_PHP_API, simply:
+To install Proxmox_PHP_API, simply:
 
 ```bash
-composer require as23project/proxmox-ve_php_api
+composer require as23project/proxmox_php_api
 ```
 
 ## Usage
